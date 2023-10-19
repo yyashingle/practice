@@ -1,0 +1,4 @@
+1. In your home directory, create sets of empty practice files 
+●	Create 6 files with names of the form songsX.mp3.
+●	Create 6 files with names of the form snapX.jpg.
+●	Create 6 files with names of the form filmX.avi.
